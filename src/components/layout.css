@@ -183,7 +183,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em georgia, serif;
+  /* font: 112.5%/1.45em georgia, serif; */
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -622,3 +622,48 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+
+/* Signature generator */
+
+body {
+  font-family:Helvetica, Arial, sans-serif; font-size:12px;
+}
+#inputs {
+  width: 250px;
+}
+#inputs input {
+  width: 150px;
+}
+hr {
+  margin: 30px 0;
+}
+h3 + hr {
+  margin-top: -5px;
+}
+hr + h3 {
+  margin-top: -15px;
+}
+.controls {
+  float: right;
+  line-height: 35px;
+  margin-top: 30px;
+}
+.controls .select, .controls .save, .controls a {
+  border: none;
+  background: #3781f2;
+  color: #fff;
+  cursor: pointer;
+  font-family: Helvetica;
+  font-size: 13px;
+  padding: 7px 15px;
+  text-decoration: none;
+}
+.controls a {
+  background: green;
+  display: none;
+}
+h4 {
+  text-decoration: underline;
+}
+
