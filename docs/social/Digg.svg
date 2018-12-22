@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Digg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Digg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#000000" cx="24" cy="24" r="24"></circle>
+            <g id="Group-6" transform="translate(9.600000, 16.000000)" fill="#FFFFFF">
+                <path d="M7.2,13.6 L0,13.6 L0,3.96539862 L4.43080338,3.96539862 L4.43080338,0 L7.2,0 L7.2,13.6 Z M2.76919662,11.3338633 L4.43035946,11.3338633 L4.43035946,6.23289803 L2.76919662,6.23289803 L2.76919662,11.3338633 Z" id="Combined-Shape"></path>
+                <polygon id="Path" points="8.8 13.6 12 13.6 12 4 8.8 4"></polygon>
+                <path d="M20,16.8 L12.8,16.8 L12.8,14.5735252 L17.232579,14.5735252 L17.232579,13.4602878 L12.8,13.4602878 L12.8,4 L20,4 L20,16.8 Z M15.5696406,11.235151 L17.232579,11.235151 L17.232579,6.22647479 L15.5696406,6.22647479 L15.5696406,11.235151 Z" id="Combined-Shape"></path>
+                <polygon id="Path" points="8.8 3.2 12 3.2 12 0 8.8 0"></polygon>
+                <path d="M28.8,16.8 L21.6,16.8 L21.6,14.5735252 L26.0318964,14.5735252 L26.0318964,13.4602878 L21.6,13.4602878 L21.6,4 L28.8,4 L28.8,16.8 Z M24.3685477,11.235151 L26.0318964,11.235151 L26.0318964,6.22647479 L24.3685477,6.22647479 L24.3685477,11.235151 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

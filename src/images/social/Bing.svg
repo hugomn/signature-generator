@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Bing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M24,48 C37.2548348,48 48,37.2548348 48,24 C48,10.7451652 37.2548348,0 24,0 C10.7451652,0 0,10.7451652 0,24 C0,37.2548348 10.7451652,48 24,48 Z" id="Oval" fill="#008373"></path>
+            <polygon id="path2998" fill="#FFFFFF" points="15.2 9.6 20.9529993 11.623857 20.9529993 31.8744333 29.0563654 27.1965382 25.0834578 25.3324697 22.5770134 19.0940296 35.344868 23.5796014 35.344868 30.100919 20.9562801 38.4 15.2 35.1980344"></polygon>
+        </g>
+    </g>
+</svg>

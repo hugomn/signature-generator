@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/social`,
   siteMetadata: {
     title: 'Signature Generator v0.1',
     description: 'Generate you HTML signature entirely for free.',

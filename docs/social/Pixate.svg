@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Pixate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pixate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#FFFFFF" cx="24" cy="24" r="24"></circle>
+            <g id="Group" transform="translate(12.800000, 12.000000)">
+                <path d="M13.3135802,6.20203629 L12,11.2 L13.382716,11.2 C18.0839506,11.2 19.6049382,8.70101816 21.2641975,4.74429687 L23.2,0.093413972 C16.6320987,-0.392499166 14.6962962,0.926407928 13.3135802,6.20203629" id="Shape" fill="#3EC4FC"></path>
+                <path d="M0,0.11692703 L1.93580246,4.75796383 C3.59506173,8.70630856 5.11604938,11.2 9.817284,11.2 L11.2,11.2 L9.88641976,6.21261716 C8.50370368,0.878888304 6.56790123,-0.437226618 0,0.11692703" id="Shape" fill="#FFBD00"></path>
+                <path d="M9.88641976,17.7979638 L11.2,12.8 L9.817284,12.8 C5.11604938,12.8 3.59506173,15.2989818 1.93580246,19.2557031 L0,23.906586 C6.56790123,24.3924992 8.50370368,23.0735921 9.88641976,17.7979638" id="Shape" fill="#F18B37"></path>
+                <path d="M23.2,23.883073 L21.2641975,19.2420362 C19.6049382,15.2936914 18.0839506,12.8 13.382716,12.8 L12,12.8 L13.3135802,17.7873828 C14.6962962,23.1211117 16.6320987,24.4372266 23.2,23.883073" id="Shape" fill="#0090DB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

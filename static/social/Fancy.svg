@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Fancy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fancy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#4E99C7" cx="24" cy="24" r="24"></circle>
+            <path d="M31.2179814,30.2565658 L26.2741298,30.2565658 L26.2741298,36.1158439 C26.2741298,37.3773658 25.2559523,38.4 24,38.4 C22.7439894,38.4 21.7258119,37.3773658 21.7258119,36.1158439 L21.7258119,30.2565658 L16.7820186,30.2565658 C15.9083126,30.2565658 15.2,29.5451707 15.2,28.6675902 L15.2,18.3393366 C15.2,18.3056781 15.2029722,18.2727805 15.2050119,18.2397073 C15.3106702,13.4504781 19.2063311,9.6 24,9.6 C28.7936689,9.6 32.6893298,13.4504781 32.7949881,18.2397073 C32.7970278,18.2727805 32.8,18.3056781 32.8,18.3393366 L32.8,28.6675902 C32.8,29.5451707 32.0916874,30.2565658 31.2179814,30.2565658" id="Fill-4" fill="#FFFFFE"></path>
+        </g>
+    </g>
+</svg>

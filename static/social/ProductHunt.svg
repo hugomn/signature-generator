@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ProductHunt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ProductHunt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M48,24 C48,37.2548 37.2548,48 24,48 C10.7452,48 0,37.2548 0,24 C0,10.7452 10.7452,0 24,0 C37.2548,0 48,10.7452 48,24" id="Fill-1" fill="#DA552F"></path>
+            <path d="M27.495,24 L27.495,24.0002 L20.61,24.0002 L20.61,16.8002 L27.495,16.8002 L27.495,16.8 C29.5080525,16.8 31.14,18.4118 31.14,20.4 C31.14,22.3882 29.5080525,24 27.495,24 M27.495,12 L27.495,12.0002 L15.75,12 L15.75,36 L20.61,36 L20.61,28.8002 L27.495,28.8002 L27.495,28.8 C32.19219,28.8 36,25.0392 36,20.4 C36,15.7608 32.19219,12 27.495,12" id="Fill-3" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

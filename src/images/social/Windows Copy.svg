@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Windows Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Windows-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M0,24 C0,10.7451654 10.7451654,0 24,0 C37.2548346,0 48,10.7451654 48,24 C48,37.2548346 37.2548346,48 24,48 C10.7451654,48 0,37.2548346 0,24 Z" id="back" fill="#FFFFFF"></path>
+            <path d="M12,15.4085046 L21.8080391,14.0727511 L21.8123266,23.5333987 L12.0089596,23.589226 L12,15.4085046 Z M21.803367,24.6234496 L21.8109799,34.0923423 L12.007613,32.7445236 L12.0070633,24.5599352 L21.803367,24.6234496 Z M22.992331,13.898011 L35.9969768,12 L35.9969768,23.413076 L22.992331,23.5163178 L22.992331,13.898011 Z M36,24.7124962 L35.9969494,36.074178 L22.9923034,34.2387194 L22.9740819,24.6912239 L36,24.7124962 Z" id="Shape" fill="#00ADEF"></path>
+        </g>
+    </g>
+</svg>

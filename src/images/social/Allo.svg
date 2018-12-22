@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Allo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Allo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#FFFFFF" cx="24" cy="24" r="24"></circle>
+            <g id="Group" transform="translate(9.600000, 9.600000)">
+                <path d="M28.8,2.13438776 C28.8,0.960474501 27.8398398,1.30660851e-08 26.6663108,1.30660851e-08 L14.397598,1.30660851e-08 C5.4716649,1.30660851e-08 -1.55172866,8.12846001 0.297468632,17.3774736 C1.4354362,23.0691743 5.96952572,27.4980288 11.6771443,28.5474361 C20.5675159,30.1838001 28.3554814,23.6561309 28.7822193,15.1185799 L28.8,15.1185799 L28.8,2.13438776 Z" id="XMLID_12_" fill="#F4B70A" transform="translate(14.400000, 14.400000) scale(-1, 1) rotate(-180.000000) translate(-14.400000, -14.400000) "></path>
+                <path d="M21.0622706,21.5312101 C21.0622706,21.5312101 21.6,21.8513171 21.6,21.1104778 L21.6,14.2755642 C21.5359243,10.3578862 18.3369753,7.2 14.4,7.2 C10.4235498,7.2 7.2,10.4215302 7.2,14.395489 C7.2,18.3694479 10.4235498,21.5909781 14.4,21.5909781 C16.2254865,21.5909781 17.8922997,20.9120429 19.1614054,19.793057 L21.0622706,21.5312101 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

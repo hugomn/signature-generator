@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>TeamViewer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9619156%" y1="100.283203%" x2="49.9619156%" y2="-0.0316596807%" id="linearGradient-1">
+            <stop stop-color="#096FD2" offset="0%"></stop>
+            <stop stop-color="#0E8EE9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.4235708%" y1="100.103131%" x2="37.4121064%" y2="0.0552486188%" id="linearGradient-2">
+            <stop stop-color="#096FD2" offset="0%"></stop>
+            <stop stop-color="#0E8EE9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="TeamViewer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M0,24 C0,10.7451654 10.7451654,0 24,0 C37.2548346,0 48,10.7451654 48,24 C48,37.2548346 37.2548346,48 24,48 C10.7451654,48 0,37.2548346 0,24 Z" id="back" fill="#FFFFFF"></path>
+            <g id="Group" transform="translate(9.600000, 9.600000)">
+                <path d="M25.7905976,1.77864377e-15 L2.97565335,1.77864377e-15 C1.32035058,0.0213183988 -0.00792875735,1.35587832 3.56292363e-05,2.9896875 L3.56292363e-05,25.8103125 C-0.00786475811,27.4505522 1.33061555,28.7877778 2.99252831,28.8 L25.8074726,28.8 C27.4693853,28.7877778 28.8078656,27.4505522 28.7999652,25.8103125 L28.7999652,2.9896875 C28.8037526,2.19903014 28.4885475,1.43939372 27.9239327,0.878471328 C27.359318,0.317548946 26.591723,0.00146628762 25.7905976,0 Z M14.3887505,26.308125 C7.77363323,26.2577225 2.45048069,20.9282633 2.49471703,14.4 C2.45048069,7.8717367 7.77363323,2.54227749 14.3887505,2.491875 C21.0071721,2.53770505 26.3354452,7.86850928 26.2912214,14.4 C26.3354452,20.9314907 21.0071721,26.262295 14.3887505,26.308125 Z" id="path87" fill="url(#linearGradient-1)"></path>
+                <polyline id="path89" fill="url(#linearGradient-2)" points="25.6 14.3985267 17.2253949 10.4 17.8982166 12.9620626 10.9017834 12.9620626 11.5746051 10.4 3.2 14.4014733 11.5803118 18.4 10.9074901 15.8379374 17.9039234 15.8379374 17.2311016 18.4 25.6 14.4014733"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Figma</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Figma" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g id="Color" fill="#333333">
+                <g id="Taobao">
+                    <g id="back">
+                        <g id="path0_fill-link">
+                            <path d="M0,24 C0,10.7452 10.7452,0 24,0 C37.2548,0 48,10.7452 48,24 C48,37.2548 37.2548,48 24,48 C10.7452,48 0,37.2548 0,24 Z" id="path0_fill"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(14.400000, 9.600000)">
+                <g id="5" transform="translate(0.000000, 19.200000)" fill="#0ACF83">
+                    <g id="path1_fill-link">
+                        <path d="M4.8,9.6 C7.450968,9.6 9.6,7.450968 9.6,4.8 L9.6,0 L4.8,0 C2.149032,0 0,2.149032 0,4.8 C0,7.450968 2.149032,9.6 4.8,9.6 Z" id="path1_fill"></path>
+                    </g>
+                </g>
+                <g id="4" transform="translate(0.000000, 9.600000)" fill="#A259FF">
+                    <g id="path2_fill-link">
+                        <path d="M0,4.8 C0,2.149032 2.149032,0 4.8,0 L9.6,0 L9.6,9.6 L4.8,9.6 C2.149032,9.6 0,7.450968 0,4.8 Z" id="path2_fill"></path>
+                    </g>
+                </g>
+                <g id="3" fill="#F24E1E">
+                    <g id="path2_fill-link">
+                        <path d="M0,4.8 C0,2.149032 2.149032,0 4.8,0 L9.6,0 L9.6,9.6 L4.8,9.6 C2.149032,9.6 0,7.450968 0,4.8 Z" id="path2_fill"></path>
+                    </g>
+                </g>
+                <g id="2" transform="translate(9.600000, 0.000000)" fill="#FF7262">
+                    <g id="path3_fill-link">
+                        <path d="M0,0 L4.8,0 C7.450968,0 9.6,2.149032 9.6,4.8 C9.6,7.450968 7.450968,9.6 4.8,9.6 L0,9.6 L0,0 Z" id="path3_fill"></path>
+                    </g>
+                </g>
+                <g id="1" transform="translate(9.600000, 9.600000)" fill="#1ABCFE">
+                    <g id="path4_fill-link">
+                        <path d="M9.6,4.8 C9.6,7.450968 7.450968,9.6 4.8,9.6 C2.149032,9.6 0,7.450968 0,4.8 C0,2.149032 2.149032,0 4.8,0 C7.450968,0 9.6,2.149032 9.6,4.8 Z" id="path4_fill"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shutterstock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Shutterstock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M0,24 C0,10.7451654 10.7451654,0 24,0 C37.2548346,0 48,10.7451654 48,24 C48,37.2548346 37.2548346,48 24,48 C10.7451654,48 0,37.2548346 0,24 Z" id="back" fill="#FF1A03"></path>
+            <path d="M22.2391682,14.8297682 L15.9712549,14.8297682 C15.3417466,14.8297682 14.8297682,15.3417466 14.8297682,15.9712549 L14.8297682,22.0006876 L9.6,22.0006876 L9.6,15.9712549 C9.6,12.458245 12.458245,9.6 15.9712549,9.6 L22.2392688,9.6 L22.2391682,14.8297682 Z M38.4,31.8484257 C38.4,35.3614356 35.541755,38.2196805 32.0287451,38.2196805 L25.7607312,38.2196805 L25.7607312,32.9899124 L32.0287451,32.9899124 C32.6582534,32.9899124 33.1702318,32.4779338 33.1702318,31.8484257 L33.1702318,25.8189929 L38.4,25.8189929 L38.4,31.8484257 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

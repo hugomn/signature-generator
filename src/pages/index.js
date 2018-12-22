@@ -1,124 +1,165 @@
 import React from 'react'
-
 import Layout from '../components/layout'
-import Image from '../components/image'
 import SEO from '../components/seo'
 import styles from './index.module.css'
+import { withPrefix } from 'gatsby'
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" keywords={['signature', 'free', 'react']} />
+class IndexPage extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      name: 'Hugo Nogueira',
+      position: 'Engineering Lead @ BCG Digital Ventures',
+      phone: '+49 151 74477807',
+      email: 'hello@hugomagalhaes.com',
+      website: 'https://www.hugomagalhaes.com',
+      avatarUrl: 'https://en.gravatar.com/userimage/3785887/dafb6496cb2175e675b2ec1f9254802d.jpg?size=100',
+      facebook: 'https://facebook.hugomagalhaes.com',
+      linkedin: 'https://linkedin.hugomagalhaes.com',
+      twitter: 'https://twitter.hugomagalhaes.com'
+    }
+  }
 
-    <div id='signature_1_container' className={styles.container}>
-      <table cellspacing="0" cellpadding="0px;" id='signature_1' className={styles.table}>
-        <tr>
-          <td rowspan="3" className={styles.avatarRow}>
-            <img src="https://en.gravatar.com/userimage/3785887/dafb6496cb2175e675b2ec1f9254802d.jpg?size=100" className={styles.avatar} />
-          </td>
-      <td className={styles.nameRow} >
-            <span class="name" className={styles.name}>
-              Hugo Nogueira
-        </span><br />
-            <span class="position">
-              Engineering Lead
-        </span>
-            <br />
-            <span className={styles.phone}>f</span>
-            <span class="fax">
-              (888) 666-6666
-        </span>
-            <br />
-            <span className={styles.emailRow}>
-              <span className={styles.emailTitle}>e</span>
-              <a class="email" href="mailto:vader@hugomagalhaes.com" className={styles.email}>
-                hello@hugomagalhaes.com
-          </a>
-            </span><br />
-            <span className={styles.website}>
-              <span className={styles.websiteTitle}>w</span>
-              <a href="https://www.hugomagalhaes.com" className={styles.website}>https://www.hugomagalhaes.com</a>
-            </span><br />
+  handleChange = (event) => {
+    this.setState({ [event.target.name]: event.target.value });
+  }
 
-            {/* <div className={styles.social}>
-              <a className={styles.icon} href="https://twitter.com/pureenergiesUS"><img alt="Twitter" src="http://hugomagalhaes.com/us/files/2014/04/twitter.png" /></a>
+  render() {
+    return (
+      <Layout>
+        <SEO title="Home" keywords={['signature', 'free', 'react']} />
 
-              <a className={styles.icon} href="https://www.facebook.com/pureenergies"><img alt="Facebook" src="http://hugomagalhaes.com/us/files/2014/04/fb.png" /></a>
+        <div className={styles.container}>
+          <table className={styles.table}>
+            <tbody>
+              <tr>
+                <td className={styles.avatar}>
+                  <img src={this.state.avatarUrl} />
+                </td>
+                <td className={styles.info} >
+                  <div className={styles.nameRow}>
+                    {this.state.name}
+                  </div>
+                  <div className={styles.position}>
+                    {this.state.position}
+                  </div>
+                  <div className={styles.phone}>
+                    <span className={styles.phoneTitle}>p</span>
+                    {this.state.phone}
+                  </div>
+                  <div className={styles.email}>
+                    <span className={styles.emailTitle}>e</span>
+                    <a href={`mailto:${this.state.email}`} className={styles.email}>
+                      {this.state.email}
+                    </a>
+                  </div>
+                  <div className={styles.website}>
+                    <span className={styles.websiteTitle}>w</span>
+                    <a href={this.state.website} className={styles.website}>{this.state.website}</a>
+                  </div>
 
-              <a className={styles.icon} href="https://www.linkedin.com/company/pure-energies"><img alt="LinkedIn" src="http://hugomagalhaes.com/us/files/2014/04/linkedin.png" /></a>
+                  <div className={styles.social}>
+                    <a className={styles.icon} href={this.state.linkedin}>
+                      <img alt="LinkedIn" src={withPrefix('/social/LinkedIn.svg')} />
+                    </a>
+                    <a className={styles.icon} href={this.state.twitter}>
+                      <img alt="Twitter" src={withPrefix('/social/Twitter.svg')} />
+                    </a>
+                    <a className={styles.icon} href={this.state.facebook}>
+                      <img alt="Facebook" src={withPrefix('/social/Facebook.svg')} />
+                    </a>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
-              <a className={styles.icon} href="https://plus.google.com/105035082847538286780/posts"><img alt="Google+" src="http://hugomagalhaes.com/us/files/2014/04/google.png" /></a>
+        <h3>Configuration:</h3>
 
-              <a className={styles.icon} href="https://www.youtube.com/user/oneblockoffthegrid"><img alt="YouTube" src="http://hugomagalhaes.com/us/files/2014/04/youtube.png" /></a>
+        <div id='inputs'>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <label>Name:</label>
+                </td>
+                <td>
+                  <input value={this.state.name} name='name' onChange={this.handleChange} ></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Position:</label>
+                </td>
+                <td>
+                  <input name='position' value={this.state.position} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Phone:</label>
+                </td>
+                <td>
+                  <input name='phone' value={this.state.phone} onChange={this.handleChange}></input>
+                </td>
+              </tr>
 
-              <a className={styles.icon} href="https://www.pinterest.com/pureen/"><img alt="Pinterest" src="http://hugomagalhaes.com/us/files/2014/04/pinterest.png" /></a>
-            </div> */}
-          </td>
-        </tr>
-      </table>
-    </div>
+              <tr>
+                <td>
+                  <label>Email:</label>
+                </td>
+                <td>
+                  <input name='email' value={this.state.email} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Website:</label>
+                </td>
+                <td>
+                  <input name='website' value={this.state.website} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Avatar URL:</label>
+                </td>
+                <td>
+                  <input name='avatarUrl' value={this.state.avatarUrl} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Linkedin:</label>
+                </td>
+                <td>
+                  <input name='linkedin' value={this.state.linkedin} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Twitter:</label>
+                </td>
+                <td>
+                  <input name='twitter' value={this.state.twitter} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label>Facebook:</label>
+                </td>
+                <td>
+                  <input name='facebook' value={this.state.facebook} onChange={this.handleChange}></input>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </Layout>
+    )
+  }
+}
 
-    {/* <div class='controls' data-sig='signature_1'>
-      <button class='select'>Select Signature (for Gmail)</button><br />
-      <button class='save'>Prepare HTML (for Outlook)</button>
-      <a download='NRG_signature.htm'>Save HTML to file</a>
-    </div> */}
-
-    <h3>Configuration:</h3>
-
-    <div id='inputs'>
-      <table>
-        <tr>
-          <td>
-            <label for='name'>Name:</label>
-          </td>
-          <td>
-            <input id='name' placeholder='Hugo Nogueira'></input>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for='position'>Position:</label>
-          </td>
-          <td>
-            <input id='position' placeholder='Engineering Lead'></input>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for='phone'>Phone:</label>
-          </td>
-          <td>
-            <input id='phone' placeholder='+49 155 5555555'></input>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for='cell'>Cell phone:</label>
-          </td>
-          <td>
-            <input id='cell' placeholder="+49 155 5555555"></input>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for='fax'>Fax:</label>
-          </td>
-          <td>
-            <input id='fax' placeholder='+49 155 5555555'></input>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <label for='email'>Email:</label>
-          </td>
-          <td>
-            <input id='email' placeholder='hello@hugomagalhaes.com'></input>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-  </Layout>
-)
 
 export default IndexPage

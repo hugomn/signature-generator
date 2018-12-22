@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>BuzzFeed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BuzzFeed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <path d="M48,24 C48,37.254 37.254,48 24,48 C10.746,48 0,37.254 0,24 C0,10.746 10.746,0 24,0 C37.254,0 48,10.746 48,24 Z" id="Shape" fill="#ED3225"></path>
+            <polygon id="Path" fill="#FFFFFF" points="39.2 23.4535814 37.2572629 9.6 24.3464043 14.8366358 29.4624773 17.8007693 24.6264922 26.2141179 16.253653 21.3577295 8 35.7173095 12.6244294 38.4 18.2083086 28.6842291 26.5811479 33.5406175 34.083927 20.4864539 39.2 23.4505874"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="6.76%" x2="50%" y2="95.6%" id="linearGradient-1">
+            <stop stop-color="#00C6FF" offset="0%"></stop>
+            <stop stop-color="#0068FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Messenger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#FFFFFF" cx="24" cy="24" r="24"></circle>
+            <g id="logo" transform="translate(9.600000, 9.600000)">
+                <path d="M5.25727434,23.6414867 L5.25727434,28.7643186 L10.047377,26.0410619 C11.3826266,26.4259115 12.8019823,26.6336283 14.2725664,26.6336283 C22.1556106,26.6336283 28.5451327,20.6710089 28.5451327,13.3168142 C28.5451327,5.96210974 22.1556106,2.84217094e-14 14.2725664,2.84217094e-14 C6.39003186,2.84217094e-14 0,5.96210974 0,13.3168142 C0,17.4813451 2.04887788,21.1998584 5.25727434,23.6414867 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="12.7484602 9.66940888 5.05134159 17.8190442 12.0563682 13.975646 15.7163894 17.8190442 23.3700531 9.66940888 16.442761 13.4455222"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

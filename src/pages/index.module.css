@@ -10,27 +10,36 @@
     border-bottom: 0;
 }
 
-.avatarRow {
-    white-space: nowrap; padding: 10px 8px 0 0; border-right:solid 2px #93c0f8; text-align:right; line-height: 18px; width:99px; height:33px;
-}
 .avatar {
+    white-space: nowrap; padding: 0 8px 0 0; border-right:solid 2px #93c0f8; text-align:right; line-height: 18px; width:110px; height:33px;
+}
+.avatar img {
     border-radius:50%;
     display:block;
 }
 
-.nameRow {
+.info {
     padding-left:10px; color:#555; font-family:Helvetica, Arial, sans-serif; font-size:12px; line-height:16px;
 }
 
-.name {
-    color:#2781f2; font-weight:bold;
+.nameRow {
+    color:#2781f2; font-weight:bold; font-size:13px;
 } 
 
+.position {
+    font-size:12px;
+    font-weight: bold;
+}
+
 .phone {
+    margin-top: 6px;
+}
+
+.phoneTitle {
     display: inline-block; margin-right: 4px; color:#2781f2; font-weight: bold;
 }
 
-.emailRow {
+.email {
     white-space:nowrap;
 }
 
@@ -55,9 +64,11 @@
 }
 
 .social {
-    margin-top: 4px;
+    margin-top: 6px;
 }
 
-.socialIcon {
-    width:20px; height: 20px;
+.social img {
+    width:22px; 
+    height: 22px;
+    margin-right: 4px;
 }

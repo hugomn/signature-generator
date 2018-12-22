@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Strava</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Strava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="Oval" fill="#F04F28" cx="24" cy="24" r="24"></circle>
+            <g id="Group-8" transform="translate(13.600000, 9.600000)">
+                <polygon id="Shape" fill="#FFFFFF" points="8.57014352 10.4803696 11.9190397 17.0903426 16.8414877 17.0903426 8.57014352 0.762643984 0.299999067 17.0903426 5.22364672 17.0903426"></polygon>
+                <polygon id="Shape" fill="#FFA780" points="14.3495222 22.1028518 11.8569856 17.1849628 8.19352304 17.1849628 14.3495222 29.3337994 20.5012025 17.1849628 16.8403793 17.1849628"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
