@@ -60,7 +60,7 @@ class IndexPage extends React.Component {
 
                   <div className={styles.social}>
                     <a className={styles.icon} href={this.state.linkedin}>
-                      <img alt="LinkedIn" src={withPrefix('/social/LinkedIn.svg')} />
+                      <img alt="LinkedIn" src={withPrefix('/social/LinkedIN.svg')} />
                     </a>
                     <a className={styles.icon} href={this.state.twitter}>
                       <img alt="Twitter" src={withPrefix('/social/Twitter.svg')} />
